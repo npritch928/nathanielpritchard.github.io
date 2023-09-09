@@ -1,86 +1,45 @@
 ---
-layout: archive
-title: "CV"
+layout: archive 
+title: Curriculum Vitae 
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
+You can find a pdf version of my cv [here](https://nathanielpritchard.github.io/files/Pritchard_cv.pdf).
+# Education
 
-{% include base_path %}
+![University of Wisconsin Madison](../images/University-of-Wisconsin-Symbol.png){: style="float: left" height="100px" width="150px"} 
+**University of Wisconsin-Madison**<br>
+PhD Student Department of Statistics<br>
+*2018 - Present*<br>
+<font size = "3">  Since 2018 I have been at the University of Wisconsin at Madison in the Statistics Department. During this time, I have worked under the advisement of Professor Vivak Patel on progress tracking for iterative randomized solvers with applications in solving generalized linear models.</font>
+<br>
+![University of North Carolina at Chapel Hill](../images/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png){: style="float: left" height="100px" width="100px"} 
+&nbsp;&nbsp;&nbsp;**University of North Carolina at Chapel Hill**<br>
+&nbsp;&nbsp;&nbsp;Major Statistics and Analytics and Economicss<br>
+&nbsp;&nbsp;&nbsp;*2014 - 2018*<br>
+<font size = "3"> In undergrad I majored in Statistics and Analytics as well as Economics with minor in Spanish. For research, I  worked under the advisement of Professor Shankar Bhamidi and Professor Nikhil Kaza on using network community detection techniques to identify metropolitan areas from commuter data.</font>
+<br>
+# Research
+![Argonne National Laboratory](../images/argonne-logo.jpeg){: style="float: left" height="80px" width="80px"} 
+&nbsp;&nbsp;&nbsp;**Argonne National Laboratory**<br>
+&nbsp;&nbsp;&nbsp;Givens Associate<br>
+&nbsp;&nbsp;&nbsp;*Summer 2020*<br>
+<font size = "3">  In the summmer of 2020 I worked with Dr. Adrian Maldonado to investigate the effectiveness of different precondtioners to for solving Graph Laplacians arising from power grid problems. </font>
+<br>
+![Argonne National Laboratory](../images/argonne-logo.jpeg){: style="float: left" height="80px" width="80px"} 
+&nbsp;&nbsp;&nbsp;**Argonne National Laboratory**<br>
+&nbsp;&nbsp;&nbsp;Givens Associate<br>
+&nbsp;&nbsp;&nbsp;*Summer 2023*<br>
+<font size = "3">  In the summmer of 2023 I worked with Dr. Adrian Maldonado on using deflation methods on GPUs and putting together a library of preconditioners on Julia for use in conjunction with any of the iterative solver packages in Julia. </font>
+<br>
+# Awards and Honors
 
+**Outstanding TA Award**<br>
+2023<br>
+**Student Research Grant Competition University of Wisconsin - Madison**<br>
+2023<br>
+**Outstanding TA (Honorable Mention)**<br>
+2022<br>
+# Skills 
+**Programming Langages:** Julia, C, R, Python, Unix, CUDA, OPENMP, MPI, Petsc<br>
+**Languages:** Spanish<br>
 
-A PDF version of my full CV is available [here](https://skdeshpande91.github.io/files/Deshpande_cv.pdf).
-
-Employment
-======
-
-<ul style="list-style-type:none">
-  <li> Postdoctoral Associate, Massachusetts Institute of Technology, CSAIL, 2018 -- present </li>
-  <ul style="list-style-type:none">
-    <li> Supervisor: Tamara Broderick </li>
-  </ul>
-</ul>
-
-
-Education
-======
-<ul style="list-style-type:none">
-  <li> Ph.D. in Statistics, University of Pennsylvania, May 2018 </li>
-    <ul style="list-style-type:none">
-      <li> Thesis: "Bayesian model selection and estimation without MCMC" </li>
-      <li> Thesis supervisors: Ed George and Veronika Rockova </li>
-    </ul>
-  <li> S.B. in Mathematics, Massachusetts Institute of Technology, June 2013 </li>
-</ul>
-
-
-
-Publications
-======
-  <ol reversed>{% for post in site.publications reversed %}
-    {% if post.note != 'preprint' and post.note != 'in-preparation' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %}</ol>
-
-Working Papers & Papers in Progress
-======
-  <ul>{% for post in site.publications reversed %}
-    {% if post.note == 'preprint' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %} </ul>
-
-  <ul>{% for post in site.publications reversed %}
-    {% if post.note == 'in-preparation' %}
-      {% include archive-single-cv.html %}
-    {% endif %}
-  {% endfor %} </ul>
-
-Awards & Honors
-======
-<ul>
-  <li> Third prize, Ruth and William Silen, M.D. Poster Award. New England Science Symposium. 2019 </li>
-  <li> Finalist, National Football League Big Data Bowl. 2019 </li>
-  <li> Deming Student Scholar Award, Deming Conference on Applied Statistics. 2017 </li>
-  <li> J. Parker Bursk Memorial Award (2017). </li>
-      <p> <i> Awarded by the Statistics Department at the Wharton School for excellence in research. </i> </p>
-  <li> Donald S. Murray Prize (2017). </li>
-      <p> <i> Awarded by the Statistics Department at the Wharton School for excellence in teaching. </i> </p>
-</ul>
-  
-Recent Talks
-======
-  <ul>{% for post in site.talks reversed  %}
-    {% if forloop.index < 6 %}
-      {% include archive-single-talk-cv.html %}
-    {% endif %}
-  {% endfor %}</ul>
-  
-  
-Service
-======
-* Journal Reviewer: Annals of Applied Statistics, The American Statistician, Journal of Computational and Graphical Statistics, Bayesian Analysis, Journal of Quantitative Analysis in Sport, PLOS One
-
-* Conference Reviewer: BNP @ NeurIPS 2018, AISTATS 2019, ICML 2019, UAI 2019, NeurIPS 2019, AAAI 2020 

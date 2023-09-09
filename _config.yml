@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sameer K. Deshpande"
+title                    : "Nathaniel Pritchard"
 title_separator          : "-"
-name                     : &name "Sameer K. Deshpande"
-description              : &description "Post-doctoral Associate at MIT"
-url                      : https://skdeshpande91.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nathaniel Pritchard"
+description              : &description "Graduate Student at University of Wisconsin - Madison"
+url                      : https://nathanielpritchard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "skdeshpande91/skdeshpande91.github.io"
+repository               : "npritch928/nathanielpritchard.github.io"
 teaser                   : "500x300.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter skdeshpande91
+  username               : &twitter NathanielPrit28 
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sameer Deshpande"
-  avatar           : "SameerDeshpande_headshot.jpg"
-  bio              : "Assistant Professor at  <a href='http://www.wisc.edu'>UW-Madison</a>"
+  name             : "Nathaniel Pritchard"
+  avatar           : "Nath_prof_pic.png"
+  bio              : "Graduate Student at <a href='http://www.wisc.edu'>UW-Madison</a>"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=coVrnWIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=QugJMIoAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Sameer_Deshpande4"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "skdeshpande91"
+  github           : "npritch928"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4116-5533"
+  orcid            : "https://orcid.org/0000-0003-0304-1847"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "skdeshpande91"
+  twitter          : "NathanielPrit28"
   vine             :
   weibo            :
   xing             :
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  education:
     output: true
     permalink: /:collection/:path/
 
