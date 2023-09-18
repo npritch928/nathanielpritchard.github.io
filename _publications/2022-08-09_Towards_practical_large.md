@@ -7,7 +7,7 @@ date: 2022-08-09
 venue: Siam Journal of Uncertainty Quantification 
 paperurl: https://epubs.siam.org/doi/10.1137/22M1515057
 preprinturl: https://arxiv.org/abs/2208.04989
-citation: 'Pritchard, N., & Patel, V. (2022). "Residual Tracking and Stopping for Iterative Random Sketching."<i> ArXiv, abs/2201.05741.</i>'
+citation:'Pritchard, N., & Patel, V. (2023). Towards Practical Large-Scale Randomized Iterative Least Squares Solvers through Uncertainty Quantification. <i>SIAM/ASA Journal on Uncertainty Quantification,</i> 11(3), 996-1024.' 
 note: 
 ---
 <b> Abstract </b>:

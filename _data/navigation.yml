@@ -8,5 +8,5 @@ main:
     #url: /teaching/
   - title: "CV"
     url: /cv/
-  - title: "Software"
-    url: /software/
+    #  - title: "Software"
+    # url: /software/
