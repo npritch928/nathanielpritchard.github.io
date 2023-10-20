@@ -1,0 +1,114 @@
+%LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass[margin,11pt]{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font  
+\topmargin=-0.1in  % start text higher on the page
+% \setlength{\textheight}{10in} % increase text height to fit resume on 1 page
+
+%\usepackage{fancyhdr}
+%\pagestyle{fancy}
+%\fancyhead{}
+%\fancyfoot[R]{\thepage}
+\usepackage{hyperref}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+\pagestyle{plain}
+
+\def\nwp{\textbf{Pritchard, N.}}
+
+\begin{document}  
+\name{\hspace{0.05in} Nathaniel Pritchard \\  \hspace{0.45in} September 2023}
+                        
+\begin{resume}                        
+  
+  \section{CONTACT} 
+  1300 University Ave., 1220 Medical Sciences Center, Madison, WI 53706 \\
+  Primary Email: npritchard@wisc.edu \\
+  Website: \texttt{https://npritch928.github.io}
+
+  \section{RESEARCH INTERESTS}
+  Generalized Linear Models. High Performance Computing. Iterative Solvers. Optimization. Preconditioners. Random Sketching. Statistical Computation.
+              
+\section{EDUCATION}      
+                {\bf University of Wisconsin - Madison}, \hfill Madison, WI \\
+                Ph.D., Statistics \hfill August 2018 - May 2024\\
+		        Supervisors: Vivak Patel 
+                
+                {\bf University of North Carolina at Chapel Hill} \hfill Chapel Hill, NC \\
+                B.S., Statistics and Analytics (Highest Honors and Highest Disctinction) \hfill August 2014 - May 2018\\
+                Honors Thesis Adiviser: Shankar Bhamidi
+  
+\section{RESEARCH EMPLOYMENT}
+                {\bf Argonne National Labs}, \hfill Chicago, Illinois\\
+                Givens Associate \hfill May 2020 - July 2020\\
+                Supervisor: Adrian Maldonado\\
+                Topic: Preconditioners for solving graph Laplacians arising from power grid networks
+                
+                {\bf Argonne National Labs}, \hfill Chicago, Illinois\\
+                Givens Associate \hfill May 2023 - July 2023\\
+                Supervisor: Adrian Maldonado\\
+                Topic: Accelerating Newton-Ralphson on GPUs using deflation methods
+\section{PRE-PRINTS}
+\nwp, \& Patel, V. (2022). "Residual Tracking and Stopping for Solving Consistent Linear Inverse Problems with Finite Domains." \textit{arXiv preprint arXiv:2201.05741}.
+
+\section{PUBLICATIONS}
+\nwp, \& Patel, V. (2023). Towards Practical Large-Scale Randomized Iterative Least Squares Solvers through Uncertainty Quantification. \textit{SIAM/ASA Journal on Uncertainty Quantification}, 11(3), 10.1137/22M1515057. 
+
+He, M., Glasser, J., \nwp, Bhamidi, S., \& Kaza, N. (2020). Demarcating geographic regions using community detection in commuting networks with significant self-loops. \textit{PloS one} 15(4), e0230941.
+%\section{WORKING PAPERS \& PAPERS IN PROGRESS}
+
+%\section{TEACHING}
+
+
+\section{TALKS}
+%\vspace{0.1in}
+%$^{\star}$: invited lecture.
+
+%\vspace{0.1in}
+
+``Large-scale randomized iterative least squares.'' March 2023 at SIAM CSE in Amsterdam, Netherlands.
+
+``Towards practical large-scale least squares solvers with Iterative Right Random Sketching.'' February 2023 at Argonne National Labs LANS seminar in Chicago, Illinois (Virtual).
+
+``Residual Tracking and Stopping for Iterative Random Sketching'' April 2022 at Copper Mountain Conference on Iterative Methods in Copper Mountain, Colorado (Virtual).
+
+%\section{DEPARTMENT SEMINARS}
+
+%\vspace{0.5in}
+%\begin{itemize}
+
+%\item[3 Feb.~2023]{``A new BART prior for flexible modeling with categorical covariates.'' Dept.~of Statistics, Purdue University}
+
+%\end{itemize}
+\section{HONORS \& AWARDS} 
+{\bf Outstanding TA} \hfill May 2023.
+
+{\bf Student Research Grant Competition UW - Madison} \hfill February 2023.
+
+{\bf Outstanding TA (Honorable Mention)} \hfill May 2022.
+
+\section{SERVICE}
+
+\textbf{Committee Service}: TA Training Redesign (2020), Space Committee (2021), Awards and Outreach Committee (2022).
+
+\textbf{Statistics Graduate Student Association}: Outreach Chair (Spring 2018 - Fall 2020), President (Fall 2020 - Spring 2023). 
+
+\section{SKILLS}
+\textbf{Computer Languages:} Julia, R, C, C++, Python
+
+\textbf{APIs:} CUDA, MPI, OpenMP, PETSc
+%\textbf{Journal Reviewer:} Journal of the American Statistical Association, Annals of Applied Statistics, Journal of Machine Learning Research, Journal of Computational and Graphical Statistics, Bayesian Analysis, Spatial Statistics, Journal of Multivariate Analysis, Statistics and Computation, Journal of Quantitative Analysis in Sport, Australian \& New Zealand Journal of Statistics, PLOS ONE, Harvard Data Science Review, STAT. 
+
+%\textbf{Conference Reviewer}: BNP@NeurIPS 2018, UAI 2019, AAAI 2020,  NeurIPS (2019--2022), AISTATS (2019--2022), ICML (2019, 2022).
+\end{resume} 
+\end{document}
+
+
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
