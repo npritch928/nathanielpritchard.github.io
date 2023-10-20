@@ -3,7 +3,7 @@ layout: archive
 title: Curriculum Vitae 
 permalink: /cv/
 ---
-You can find a pdf version of my cv [here](https://nathanielpritchard.github.io/files/Pritchard_cv.pdf).
+You can find a pdf version of my CV [here](https://nathanielpritchard.github.io/files/pritchard_cv.pdf).
 # Education
 
 ![University of Wisconsin Madison](../images/University-of-Wisconsin-Symbol.png){: style="float: left" height="100px" width="150px"} 
@@ -23,13 +23,13 @@ PhD Student Department of Statistics<br>
 &nbsp;&nbsp;&nbsp;**Argonne National Laboratory**<br>
 &nbsp;&nbsp;&nbsp;Givens Associate<br>
 &nbsp;&nbsp;&nbsp;*Summer 2020*<br>
-<font size = "3">  In the summmer of 2020 I worked with Dr. Adrian Maldonado to investigate the effectiveness of different precondtioners to for solving Graph Laplacians arising from power grid problems. </font>
+<font size = "3">  In the summer of 2020 I worked with Dr. Adrian Maldonado to investigate the effectiveness of different preconditioners to for solving Graph Laplacians arising from power grid problems. </font>
 <br>
 ![Argonne National Laboratory](../images/argonne-logo.jpeg){: style="float: left" height="80px" width="80px"} 
 &nbsp;&nbsp;&nbsp;**Argonne National Laboratory**<br>
 &nbsp;&nbsp;&nbsp;Givens Associate<br>
 &nbsp;&nbsp;&nbsp;*Summer 2023*<br>
-<font size = "3">  In the summmer of 2023 I worked with Dr. Adrian Maldonado on using deflation methods on GPUs and putting together a library of preconditioners on Julia for use in conjunction with any of the iterative solver packages in Julia. </font>
+<font size = "3">  In the summer of 2023 I worked with Dr. Adrian Maldonado on using deflation methods on GPUs and putting together a library of preconditioners on Julia for use in conjunction with any of the iterative solver packages in Julia. </font>
 <br>
 # Awards and Honors
 
@@ -40,6 +40,6 @@ PhD Student Department of Statistics<br>
 **Outstanding TA (Honorable Mention)**<br>
 2022<br>
 # Skills 
-**Programming Langages:** Julia, C, R, Python, Unix, CUDA, OPENMP, MPI, Petsc<br>
+**Programming Languages:** Julia, C, R, Python, Unix, CUDA, OPENMP, MPI, Petsc<br>
 **Languages:** Spanish<br>
 
