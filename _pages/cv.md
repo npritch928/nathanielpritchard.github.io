@@ -3,11 +3,7 @@ layout: archive
 title: Curriculum Vitae 
 permalink: /cv/
 ---
-<<<<<<< HEAD
 You can find a pdf version of my CV [here](https://nathanielpritchard.github.io/files/pritchard_cv.pdf).
-=======
-You can find a pdf version of my cv [here](https://npritch928.github.io/files/Pritchard_cv.pdf).
->>>>>>> refs/remotes/origin/master
 # Education
 
 ![University of Wisconsin Madison](../images/University-of-Wisconsin-Symbol.png){: style="float: left" height="100px" width="150px"} 

@@ -47,7 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #E1D96E;//#7a8288;
+$gray                       : #38030d; //#E1D96E;//#7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -58,7 +58,7 @@ $body-color                 : #fff;
 $background-color           : #E8E8E8;//#fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : #000;//$dark-gray;
+$text-color                 : $dark-gray;//#000;
 $border-color               : $lighter-gray;
 
 $primary-color              : $gray;//#7a8288;
