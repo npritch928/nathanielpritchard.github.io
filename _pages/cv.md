@@ -3,7 +3,7 @@ layout: archive
 title: Curriculum Vitae 
 permalink: /cv/
 ---
-You can find a pdf version of my CV [here](https://nathanielpritchard.github.io/files/pritchard_cv.pdf).
+You can find a pdf version of my CV [here](https://npritch928.github.io/files/pritchard_cv.pdf).
 # Education
 
 ![University of Wisconsin Madison](../images/University-of-Wisconsin-Symbol.png){: style="float: left" height="100px" width="150px"} 
@@ -14,7 +14,7 @@ PhD Student Department of Statistics<br>
 <br>
 ![University of North Carolina at Chapel Hill](../images/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png){: style="float: left" height="100px" width="100px"} 
 &nbsp;&nbsp;&nbsp;**University of North Carolina at Chapel Hill**<br>
-&nbsp;&nbsp;&nbsp;Major Statistics and Analytics and Economicss<br>
+&nbsp;&nbsp;&nbsp;Major Statistics and Analytics and Economics<br>
 &nbsp;&nbsp;&nbsp;*2014 - 2018*<br>
 <font size = "3"> In undergrad I majored in Statistics and Analytics as well as Economics with minor in Spanish. For research, I  worked under the advisement of Professor Shankar Bhamidi and Professor Nikhil Kaza on using network community detection techniques to identify metropolitan areas from commuter data.</font>
 <br>
@@ -37,7 +37,7 @@ PhD Student Department of Statistics<br>
 2023<br>
 **Student Research Grant Competition University of Wisconsin - Madison**<br>
 2023<br>
-**Outstanding TA (Honorable Mention)**<br>
+**Outstanding TA Award (Honorable Mention)**<br>
 2022<br>
 # Skills 
 **Programming Languages:** Julia, C, R, Python, Unix, CUDA, OPENMP, MPI, Petsc<br>
