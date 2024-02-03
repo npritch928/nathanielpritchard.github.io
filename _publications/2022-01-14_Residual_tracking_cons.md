@@ -3,11 +3,11 @@ title: "Residual Tracking and Stopping for Solving Consistent Linear Inverse Pro
 collection: publications
 permalink: /publications/2022-01-14_Residual_tracking_cons
 excerpt: 
-date: 2022-01-14
+date: 2023-01-31
 venue: 
 paperurl:
-preprinturl: https://arxiv.org/abs/2211.04459
-citation: 'Pritchard, N., & Patel, V. (2022). "Residual Tracking and Stopping for Solving Consistent Linear Inverse Problems with Finite Domains." <i>arXiv preprint arXiv:2201.05741</i>.'
+preprinturl: https://arxiv.org/pdf/2201.05741.pdf
+citation: 'Pritchard, N., & Patel, V. (2023). "Solving, Tracking and Stopping Streaming Linear Inverse Problems." <i>arXiv preprint arXiv:2201.05741</i>.'
 note: 'preprint'
 ---
 <b> Abstract </b>:
