@@ -32,7 +32,8 @@ PhD Student Department of Statistics<br>
 <font size = "3">  In the summer of 2023 I worked with Dr. Adrian Maldonado on using deflation methods on GPUs and putting together a library of preconditioners on Julia for use in conjunction with any of the iterative solver packages in Julia. </font>
 <br>
 # Awards and Honors
-
+**SIAM Student Travel Award (SIAM LA24)**<br>
+2024<br>
 **Outstanding TA Award**<br>
 2023<br>
 **Student Research Grant Competition University of Wisconsin - Madison**<br>
