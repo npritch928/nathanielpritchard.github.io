@@ -3,13 +3,13 @@ layout: archive
 title: Curriculum Vitae 
 permalink: /cv/
 ---
-You can find a pdf version of my CV [here](https://npritch928.github.io/files/pritchard_cv.pdf).
+You can find a pdf version of my CV [here](https://nathanielpritchard.github.io/files/pritchard_cv.pdf).
 # Education
 
 ![University of Wisconsin Madison](../images/University-of-Wisconsin-Symbol.png){: style="float: left" height="100px" width="150px"} 
 **University of Wisconsin-Madison**<br>
 PhD Student Department of Statistics<br>
-*2018 - Present*<br>
+*2018 - 2024*<br>
 <font size = "3">  Since 2018 I have been at the University of Wisconsin at Madison in the Statistics Department. During this time, I have worked under the advisement of Professor Vivak Patel on progress tracking for iterative randomized solvers with applications in solving generalized linear models.</font>
 <br>
 ![University of North Carolina at Chapel Hill](../images/University_of_North_Carolina_at_Chapel_Hill_seal.svg.png){: style="float: left" height="100px" width="100px"} 
