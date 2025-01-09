@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathaniel Pritchard"
 title_separator          : "-"
 name                     : &name "Nathaniel Pritchard"
-description              : &description "Graduate Student at University of Wisconsin - Madison"
+description              : &description "Post Doctoral Research Associate at the University of Oxford"
 url                      : https://nathanielpritchard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathanielpritchard/nathanielpritchard.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nathaniel Pritchard"
   avatar           : "nathan_prof.png"
-  bio              : "Graduate Student at <a href='http://www.wisc.edu'>UW-Madison</a>"
+  bio              : "Post Doctoral Research Associate at <a href='https://www.maths.ox.ac.uk'>University of Oxford</a>"
   location         : "Madison, WI, USA"
   employer         :
   pubmed           : 

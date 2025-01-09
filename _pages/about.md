@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Nathaniel Pritchard, a Post Doc at the University of Oxford.  I am interested in Randomized Linear Algebra especially with respect to statistical techniques such as linear regression and Generalized Linear Models.
+I am Nathaniel Pritchard, a Post Doctoral Research associate at the University of Oxford.  I am interested in Randomized Linear Algebra especially with respect to statistical techniques such as linear regression and Generalized Linear Models.
 
 Recent Papers
 ======
